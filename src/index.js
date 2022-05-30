@@ -26,7 +26,7 @@ root.render(
           <Route index element={<LeagueStandings />} />
         </Route> */}
       </Route>
-    </Routes>
+    </Routes> 
   </BrowserRouter>
 );
 
